@@ -16,4 +16,8 @@ def encrypt(plain_text, shift_amount):
     print(f"The Encoded text is {cipher_text}")
 
 
+def decrypt(cipher_text, shift_amount):
+    
+
+
 encrypt(plain_text=text,shift_amount=shift)
